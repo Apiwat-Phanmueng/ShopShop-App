@@ -1,0 +1,5 @@
+{
+  "name": "ShopShop App",
+  "description": "ShopShop App: A modern E-commerce platform built with React 19, Vite, and Tailwind CSS. Features include Authentication, Product Search, Cart Management, Multi-step Checkout, and an Admin Dashboard. Built with a focus on clean UI/UX and efficient state management using React Context API.",
+  "requestFramePermissions": []
+}
